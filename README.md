@@ -1,0 +1,2 @@
+# hive
+Изучение Apache Hive
