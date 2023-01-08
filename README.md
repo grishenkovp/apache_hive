@@ -1,2 +1,2 @@
-# hive
+# Apache Hive
 Изучение Apache Hive
